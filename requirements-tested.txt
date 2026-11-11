@@ -1,0 +1,12 @@
+streamlit==1.67.0
+pandas==2.2.3
+numpy==2.3.5
+plotly==6.9.0
+google-auth==2.62.2
+google-auth-oauthlib==1.5.0
+requests==2.34.2
+keyring==25.7.0
+pydantic==2.13.4
+python-dotenv==1.2.2
+reportlab==4.4.9
+pytest==9.2.0
